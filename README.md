@@ -1,4 +1,16 @@
-# Suryanshu-Pugla.github.io
+# Experienced Professional and adapatable to change
+
+## Education
+MEML Rice University
+
+## Work Experience
+Ops Manager Amazon
+
+## Skills
+Python , 6 Sigma , PMP certification
+
+
+
 
 # Begining the github account
 
