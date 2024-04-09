@@ -1,5 +1,5 @@
 <div style:"text-align:center;">
-<img src="https://raw.githubusercontent.com/Suryanshu-Pugla/Suryanshu-Pugla.github.io/main/images/Pic-%20Suryanshu%20Pugla.jpg" width = "400" height="350">
+<img src="https://raw.githubusercontent.com/Suryanshu-Pugla/Suryanshu-Pugla.github.io/main/images/Pic-%20Suryanshu%20Pugla.jpg" width = "400" height="500">
 
 # Experienced Professional and adapatable to change
 
