@@ -1,7 +1,7 @@
 
 <img src="https://raw.githubusercontent.com/Suryanshu-Pugla/Suryanshu-Pugla.github.io/main/images/Pic-%20Suryanshu%20Pugla.jpg" width = "400" height="500">
 
-# Experienced Professional and adapatable to change
+# Experienced Professional and Adapatable to Change
 A dynamic professional with essential qualities of a leader. A critical thinker, quick learner, possessing innate ability to adapt to any domain and deliver remarkable results.
 ## Education
 - Bachelors of Engineering in Electrical Engineering
@@ -9,6 +9,7 @@ A dynamic professional with essential qualities of a leader. A critical thinker,
 
 ## Work Experience
 💡 Ops Manager Amazon
+
 💼 Technical Project Manager Indian Air Force
 
 ## Skills
